@@ -20,3 +20,4 @@ In January, Howard announced that it would expand an academic partnership with G
 BriteLight/HowardLAB
 ====================
 Fostering colaboration and mentorship in accordance to the Bison Spirit. 
+
