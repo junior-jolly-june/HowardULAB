@@ -1,0 +1,5 @@
+Question 3 (10 points)
+  i.  Draw the block diagram, from the gates up, for a dual-port register file with four 8-bit registers implemented using D-latches.
+      You can draw one gate-level version of the D-latch and then re-use it as a block. The same goes for other repeated gate level structures, such as a registers, decoder, or multiplexer.
+
+  ii. Calculate the number of AND, OR, NOT, and tristate buffers. 
